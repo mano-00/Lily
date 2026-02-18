@@ -33,7 +33,7 @@ Other notable features:
 - GitHub Pages
 
 ## Live Website
-
+https://mano-00.github.io/Lily/
 ## Screenshots
 
 ## Author 
