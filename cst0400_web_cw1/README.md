@@ -33,7 +33,7 @@ Other notable features:
 - GitHub Pages
 
 ## Live Website
-https://github.com/mano-00/cst0400_web_cw1/tree/main/cst0400_web_cw1
+https://mano-00.github.io/Lily/
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
