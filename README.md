@@ -35,7 +35,9 @@ Other notable features:
 ## Live Website
 https://mano-00.github.io/Lily/
 ## Screenshots
-
+![Homepage](Images/homepage.png)
+![Products](Images/productpage.png)
+![ContactUs](Images/contactpage.png)
 ## Author 
 Student — Chaw Yadanar Htun
 CST0400 (2025/26)
